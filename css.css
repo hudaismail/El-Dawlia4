@@ -91,8 +91,8 @@ hr{
 	bottom:20px;
 	right:40px;
 	z-index:90;
-	background:teal;
-	color:white;
+	background:beige;
+	color:blue;
 	cursor:pointer;
 	padding:8px 16px;
 	font-size:20px;
@@ -300,7 +300,7 @@ main .site .btn a:hover {color:white;}
 
 /*----------------*/
 footer{
-	background:#555;
+	background:blue;
 	margin-top:100px;
 	padding:100px 0;
 	
